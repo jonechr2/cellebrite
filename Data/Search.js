@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Topics/Catalog/Catalog_Context.htm'],s:['12'],p:[['12',9]]});
